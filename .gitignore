@@ -1,0 +1,6 @@
+*.odt
+*.ods
+*.tmp
+.rzr/
+*.tar*
+n*.*#
