@@ -1,0 +1,70 @@
+/* --- ############# xxx ############# --- */
+
+* {
+  box-sizing: border-box;
+}
+
+/* --- ############# xxx ############# --- */
+
+html {}
+
+body {}
+
+p {
+  font-family: "Raleway", sans-serif;
+}
+
+header{
+  text-align: center;
+}
+
+main{
+ margin: auto;
+  max-width: 83%;
+}
+
+footer{
+  background: #092f43;
+  
+}
+/* --- ############# xxx ############# --- */
+
+.orange {
+  color: #e67c44;
+}
+
+.blue {
+  color: #092f43;
+}
+
+.B-tittle {
+  color: #092f43;
+  font-family: 'Fette Kanzlei OsF';
+  font-weight: normal;
+  font-size: 5.56rem;
+}
+
+.Orn-tittle {
+  color: #e67c44;
+  font-family: 'FreeMono';
+  font-weight: normal;
+  font-size: 6.66rem;
+}
+
+/* --- ############# xxx ############# --- */
+
+/* --- ############# xxx ############# --- */
+
+/* --- ############# xxx ############# --- */
+
+/* --- ############# xxx ############# ---
+
+e67c44ff
+092f43ff
+
+Fette Kanzlei OsF
+FreeMono
+
+<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+
+*/
