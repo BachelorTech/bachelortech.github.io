@@ -39,14 +39,14 @@ footer{
 
 .B-tittle {
   color: #092f43;
-  font-family: 'Fette Kanzlei OsF';
+  font-family: 'fette_kanzlei_osfregular';
   font-weight: normal;
   font-size: 5.56rem;
 }
 
 .Orn-tittle {
   color: #e67c44;
-  font-family: 'FreeMono';
+  font-family: 'freemonoregular', monospace;
   font-weight: normal;
   font-size: 6.66rem;
 }
@@ -55,9 +55,30 @@ footer{
 
 /* --- ############# xxx ############# --- */
 
-/* --- ############# xxx ############# --- */
+/* --- ############# xxx ############# --- 
 
-/* --- ############# xxx ############# ---
+
+@font-face {
+    font-family: 'fette_kanzlei_osfregular';
+    src: url('/rzr/font/fettekanzleiosf-webfont.woff2') format('woff2'),
+         url('/rzr/font/fettekanzleiosf-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'freemonoregular';
+    src: url('rzr/font/freemono-webfont.woff2') format('woff2'),
+         url('rzr/font/freemono-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+ --- ############# xxx ############# ---
 
 e67c44ff
 092f43ff
