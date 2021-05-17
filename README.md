@@ -1,4 +1,2 @@
-Bachelor Tech :: github.io
-===========================
-
+# Bachelor Tech :: github.io
 
